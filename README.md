@@ -11,7 +11,7 @@
   </table>
 </center>  
 
-### Ola! <img src="https://i.pinimg.com/originals/f4/26/14/f426142ae405d6971e518bde32078898.gif" width="30px">
+### Ola! <img src="./images/dfed.gif" width="30px">
 
 ---
 
