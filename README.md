@@ -11,7 +11,7 @@
   </table>
 </center>  
 
-### Ola! <img src="./images/dfed.gif" width="30px">
+### Ola! <img src="./images/dfed.gif" width="60px">
 
 ---
 
