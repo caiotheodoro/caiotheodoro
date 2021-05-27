@@ -1,12 +1,12 @@
 
-![capa github]()  
+
 
 
 <center>
   <table>
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiotheodoro&hide=html&layout=compact&theme=dark" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=KozielGPC&theme=dark"/></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=caiotheodoro&theme=dark"/></td>
     </tr>   
   </table>
 </center>  
@@ -15,12 +15,11 @@
 
 ---
 
-Since 2016 programming, I am a computer science student, computer technician graduated in high school. 
-I'm currently trying to improve my skills in web development, using React, Node, SQL and these things. I also used to programm in Java and Python.
+Programo desde 2018/1 e sou estudante de Ciência da Computação na Universidade Tecnologia do Paraná. 
+Atualmente estudo programação focado principalmente em frameworks de javascript, usando Angular e React.
+Possuo o conhecimento geral de HTML, CSS, Ionic, Node, SQL e outros componentes de código. Também, dentro da universidade principalmente, programo em C e Python.
 
 
-
-I love games/esports, music, super-heros and sci-fi movies, programming and cats 
 
 Where do you find me? :mag:  
 
@@ -28,7 +27,9 @@ Where do you find me? :mag:
 
 <a href="https://www.linkedin.com/in/marciogpc/"><img src="https://github.com/caiotheodoro/curriculo/blob/main/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/caiotheodoro/)  
 
-<a href="mailto:gpcgabriel0@gmail.com"><img src="https://github.com/caiotheodoro/curriculo/blob/main/images/email.png" width="16"></img></a> [Email](mailto:caio@atla.ws)  
+<a href="mailto:gpcgabriel0@gmail.com"><img src="https://github.com/caiotheodoro/curriculo/blob/main/images/mail.png" width="16"></img></a> [Email](mailto:caio@atla.ws)  
+
+<a href="mailto:gpcgabriel0@gmail.com"><img src="https://github.com/caiotheodoro/curriculo/blob/main/images/mail.png" width="16"></img></a> [Last](https://www.last.fm/user/caio/)  
 
 ---  
 
