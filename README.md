@@ -11,11 +11,27 @@
   </table>
 </center>  
 
+<p align="center">
+  <img alt="PRs welcome!" src="https://img.shields.io/static/v1?label=PRs&message=WELCOME&style=for-the-badge&color=4A90E2&labelColor=222222" />
+     
+   <img alt="Stars" src="https://img.shields.io/github/stars/devgabrieldejesus/readme-model?color=4A90E2&label=STARS&logo=3C424B&logoColor=3C424B&style=for-the-badge&labelColor=222222" />
+
+   <img alt="Forks" src="https://img.shields.io/github/forks/devgabrieldejesus/readme-model?color=4A90E2&label=FORKS&logo=3C424B&logoColor=3C424B&style=for-the-badge&labelColor=222222" />
+
+   <img alt="Issues" src="https://img.shields.io/github/issues/devgabrieldejesus/readme-model?color=4A90E2&label=ISSUES&logo=3C424B&logoColor=3C424B&style=for-the-badge&labelColor=222222" />
+
+   <img alt="GitHub license" src="https://img.shields.io/github/license/devgabrieldejesus/readme-model?color=4A90E2&label=LICENSE&logo=3C424B&logoColor=3C424B&style=for-the-badge&labelColor=222222" />
+
+  <a href="https://github.com/devgabrieldejesus">
+    <img alt="Follow devgabrieldejesus" src="https://img.shields.io/static/v1?label=Follow&message=devgabrieldejesus&style=for-the-badge&color=4A90E2&labelColor=222222" />
+  </a>
+</p>
+
 ### Ola! <img src="./images/dfed.gif" width="60px">
 
 ---
 
-Programo desde 2018/1 e sou estudante de Ciência da Computação na Universidade Tecnologia do Paraná. 
+💻 Programo desde 2018/1 e sou estudante de Ciência da Computação na Universidade Tecnologia do Paraná. 
 
 Atualmente estudo programação focado principalmente em frameworks de javascript, usando Angular e React.
 Possuo o conhecimento geral de HTML, CSS, Ionic, Node, SQL e outros componentes de código. Também, dentro da universidade principalmente, programo em C e Python.
