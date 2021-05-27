@@ -21,13 +21,43 @@ Atualmente estudo programação focado principalmente em frameworks de javascrip
 Possuo o conhecimento geral de HTML, CSS, Ionic, Node, SQL e outros componentes de código. Também, dentro da universidade principalmente, programo em C e Python.
 
 
-<a href="https://www.instagram.com/c.dthr/"><img src="https://github.com/caiotheodoro/curriculo/blob/main/images/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/marciogpc/)  
+<style>
+/* Style all font awesome icons */
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+  /* Set a specific color for each brand */
+  
+  /* Facebook */
+  .fa-linkedin {
+    background: #3B5998;
+    color: white;
+  }
+  
+  /* Twitter */
+  .fa-mail {
+    background: #55ACEE;
+    color: white;
+  }
+</style>
 
-<a href="https://www.linkedin.com/in/marciogpc/"><img src="https://github.com/caiotheodoro/curriculo/blob/main/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/caiotheodoro/)  
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-<a href="mailto:caio@atla.ws"><img src="https://github.com/caiotheodoro/curriculo/blob/main/images/mail.png" width="16"></img></a> [Email](mailto:caio@atla.ws)  
 
-<a href="https://www.last.fm/user/caio/"><img src="https://github.com/caiotheodoro/curriculo/blob/main/images/lastfm.png" width="16"></img></a> [Last](https://www.last.fm/user/caio/)  
+<a href="https://www.linkedin.com/in/caiotheodoro/" class="fa fa-linkedin"></a>
+<a href="mailto:caio@atla.ws" class="fa fa-mail"></a>
+<a href="https://www.last.fm/user/caio/" class="fa fa-lastfm"></a>
+<a href="https://www.gitlab.com/caiotheodoro/" class="fa fa-gitlab"></a>
 
 ---  
 
