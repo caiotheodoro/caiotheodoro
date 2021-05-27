@@ -22,14 +22,13 @@ Possuo o conhecimento geral de HTML, CSS, Ionic, Node, SQL e outros componentes 
 
 
 
-
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
+<a href="https://www.linkedin.com/in/caiotheodoro/"><img src="https://github.com/caiotheodoro/curriculo/blob/main/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/caiotheodoro/)  
 
-<a href="https://www.linkedin.com/in/caiotheodoro/" class="fa fa-linkedin"></a>
-<a href="mailto:caio@atla.ws" class="fa fa-mail"></a>
-<a href="https://www.last.fm/user/caio/" class="fa fa-lastfm"></a>
-<a href="https://www.gitlab.com/caiotheodoro/" class="fa fa-gitlab"></a>
+<a href="mailto:caio@atla.ws"><img src="https://github.com/caiotheodoro/curriculo/blob/main/images/mail.png" width="16"></img></a> [Email](mailto:caio@atla.ws)  
+
+<a href="https://www.last.fm/user/caio/"><img src="https://github.com/caiotheodoro/curriculo/blob/main/images/download.png" width="16"></img></a> [Last](https://www.last.fm/user/caio/)  
 
 ---  
 
