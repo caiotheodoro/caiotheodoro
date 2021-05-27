@@ -1,5 +1,5 @@
 
-![capa github](https://github.com/KozielGPC/KozielGPC/blob/main/images/eueue.gif) 
+![capa github](https://github.com/caiotheodoro/caiotheodoro/blob/main/images/eueue.gif) 
 
 
 <center>
