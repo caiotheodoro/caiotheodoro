@@ -25,9 +25,9 @@ Possuo o conhecimento geral de HTML, CSS, Ionic, Node, SQL e outros componentes 
 
 <a href="https://www.linkedin.com/in/marciogpc/"><img src="https://github.com/caiotheodoro/curriculo/blob/main/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/caiotheodoro/)  
 
-<a href="mailto:gpcgabriel0@gmail.com"><img src="https://github.com/caiotheodoro/curriculo/blob/main/images/mail.png" width="16"></img></a> [Email](mailto:caio@atla.ws)  
+<a href="mailto:caio@atla.ws"><img src="https://github.com/caiotheodoro/curriculo/blob/main/images/mail.png" width="16"></img></a> [Email](mailto:caio@atla.ws)  
 
-<a href="mailto:gpcgabriel0@gmail.com"><img src="https://github.com/caiotheodoro/curriculo/blob/main/images/lastfm.png" width="16"></img></a> [Last](https://www.last.fm/user/caio/)  
+<a href="https://www.last.fm/user/caio/"><img src="https://github.com/caiotheodoro/curriculo/blob/main/images/lastfm.png" width="16"></img></a> [Last](https://www.last.fm/user/caio/)  
 
 ---  
 
