@@ -21,35 +21,7 @@ Atualmente estudo programação focado principalmente em frameworks de javascrip
 Possuo o conhecimento geral de HTML, CSS, Ionic, Node, SQL e outros componentes de código. Também, dentro da universidade principalmente, programo em C e Python.
 
 
-<style>
-/* Style all font awesome icons */
-.fa {
-    padding: 20px;
-    font-size: 30px;
-    width: 50px;
-    text-align: center;
-    text-decoration: none;
-  }
-  
-  /* Add a hover effect if you want */
-  .fa:hover {
-    opacity: 0.7;
-  }
-  
-  /* Set a specific color for each brand */
-  
-  /* Facebook */
-  .fa-linkedin {
-    background: #3B5998;
-    color: white;
-  }
-  
-  /* Twitter */
-  .fa-mail {
-    background: #55ACEE;
-    color: white;
-  }
-</style>
+
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
