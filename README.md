@@ -25,11 +25,6 @@
   <a href="https://www.gitlab.com/caiotheodoro/">
    <img alt="Issues" src="https://img.shields.io/static/v1?label=gitlab&message=caiotheodoro&style=for-the-badge&color=4A90E2&labelColor=222222" />
  </a>
-   <img alt="GitHub license" src="https://img.shields.io/github/license/devgabrieldejesus/readme-model?color=4A90E2&label=LICENSE&logo=3C424B&logoColor=3C424B&style=for-the-badge&labelColor=222222" />
-
-  <a href="https://github.com/devgabrieldejesus">
-    <img alt="Follow devgabrieldejesus" src="https://img.shields.io/static/v1?label=Follow&message=devgabrieldejesus&style=for-the-badge&color=4A90E2&labelColor=222222" />
-  </a>
 </p>
 
 ### Ola! <img src="./images/dfed.gif" width="60px">
