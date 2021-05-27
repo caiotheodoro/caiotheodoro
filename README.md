@@ -1,5 +1,5 @@
 
-
+![capa github](https://github.com/KozielGPC/KozielGPC/blob/main/images/eueue.gif) 
 
 
 <center>
@@ -27,7 +27,7 @@
  </a>
 </p>
 
-### Ola! <img src="./images/dfed.gif" width="60px">
+### Ola! <img src="./images/dfed.gif" width="80px">
 
 ---
 
@@ -38,13 +38,6 @@ Possuo o conhecimento geral de HTML, CSS, Ionic, Node, SQL e outros componentes 
 
 
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
-<a href="https://www.linkedin.com/in/caiotheodoro/"><img src="https://github.com/caiotheodoro/curriculo/blob/main/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/caiotheodoro/)  
-
-<a href="mailto:caio@atla.ws"><img src="https://github.com/caiotheodoro/curriculo/blob/main/images/mail.png" width="16"></img></a> [Email](mailto:caio@atla.ws)  
-
-<a href="https://www.last.fm/user/caio/"><img src="https://github.com/caiotheodoro/curriculo/blob/main/images/download.png" width="16"></img></a> [Last](https://www.last.fm/user/caio/)  
 
 ---  
 
