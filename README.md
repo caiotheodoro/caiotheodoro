@@ -1,5 +1,5 @@
 
-![capa github](https://github.com/caiotheodoro/caiotheodoro/blob/main/images/eee.gif) 
+![capa github](https://github.com/caiotheodoro/caiotheodoro/blob/main/images/eee_1.gif) 
 
 
 <center>
