@@ -29,7 +29,7 @@ Where do you find me? :mag:
 
 <a href="mailto:gpcgabriel0@gmail.com"><img src="https://github.com/caiotheodoro/curriculo/blob/main/images/mail.png" width="16"></img></a> [Email](mailto:caio@atla.ws)  
 
-<a href="mailto:gpcgabriel0@gmail.com"><img src="https://github.com/caiotheodoro/curriculo/blob/main/images/mail.png" width="16"></img></a> [Last](https://www.last.fm/user/caio/)  
+<a href="mailto:gpcgabriel0@gmail.com"><img src="https://github.com/caiotheodoro/curriculo/blob/main/images/lastfm.png" width="16"></img></a> [Last](https://www.last.fm/user/caio/)  
 
 ---  
 
