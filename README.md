@@ -15,7 +15,7 @@
     <img alt="Linkedin caiotheodoro!" src="https://img.shields.io/static/v1?label=Linkedin&message=caiotheodoro1&style=for-the-badge&color=4A90E2&labelColor=222222" />
  </a>
   <a href="mailto:caiotheodoro12345@gmail.com">
-   <img alt="Stars" src="https://img.shields.io/static/v1?label=gmail&message=caio@atla.ws&style=for-the-badge&color=4A90E2&labelColor=222222" />
+   <img alt="Stars" src="https://img.shields.io/static/v1?label=gmail&message=caiotheodoro12345@gmail.com&style=for-the-badge&color=4A90E2&labelColor=222222" />
  </a>
 
   <a href="https://www.last.fm/user/caio/">
