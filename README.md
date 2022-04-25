@@ -30,9 +30,9 @@
 
 ---
 
-💻 Programo desde 2018/1 e sou estudante de Ciência da Computação na Universidade Tecnologia Federal do Paraná, atualmente no 6º Período. 
+💻 Programo desde 2018/1 e sou estudante de Ciência da Computação na Universidade Tecnologica Federal do Paraná, atualmente no 6º Período. 
 
-Atualmente estudo programação focado principalmente em frameworks de javascript, usando React.
+Atualmente estudo programação focado principalmente em frameworks/bibliotecas de javascript, usando React.
 Possuo o conhecimento geral de HTML, CSS, Ionic, Angular, Node, SQL, Postgres, MongoDB e outros componentes de código. Também, dentro da universidade principalmente, programo em C e Python.
 
 
