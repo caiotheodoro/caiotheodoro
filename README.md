@@ -11,6 +11,9 @@
 </center>  
 
 <p align="center">
+     <a href="https://caiotheodoro.vercel.app">
+   <img alt="Site" src="https://img.shields.io/static/v1?label=webiste&message=caiotheodoro.vercel.app&style=for-the-badge&color=4A90E2&labelColor=222222" />
+ </a>
   <a href="https://www.linkedin.com/in/caiotheodoro1/">
     <img alt="Linkedin caiotheodoro!" src="https://img.shields.io/static/v1?label=Linkedin&message=caiotheodoro1&style=for-the-badge&color=4A90E2&labelColor=222222" />
  </a>
@@ -24,9 +27,7 @@
   <a href="https://www.gitlab.com/caiotheodoro/">
    <img alt="Issues" src="https://img.shields.io/static/v1?label=gitlab&message=caiotheodoro&style=for-the-badge&color=4A90E2&labelColor=222222" />
  </a>
-   <a href="https://caiotheodoro.vercel.app">
-   <img alt="Site" src="https://img.shields.io/static/v1?label=gitlab&message=caiotheodoro&style=for-the-badge&color=4A90E2&labelColor=222222" />
- </a>
+
 </p>
 
 ### Ola! <img src="./images/dfed.gif" width="80px">
