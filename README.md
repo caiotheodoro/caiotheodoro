@@ -24,6 +24,9 @@
   <a href="https://www.gitlab.com/caiotheodoro/">
    <img alt="Issues" src="https://img.shields.io/static/v1?label=gitlab&message=caiotheodoro&style=for-the-badge&color=4A90E2&labelColor=222222" />
  </a>
+   <a href="https://caiotheodoro.vercel.app">
+   <img alt="Site" src="https://img.shields.io/static/v1?label=gitlab&message=caiotheodoro&style=for-the-badge&color=4A90E2&labelColor=222222" />
+ </a>
 </p>
 
 ### Ola! <img src="./images/dfed.gif" width="80px">
