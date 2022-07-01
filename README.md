@@ -36,7 +36,8 @@
 
 💻 Programo desde 2018.1 e sou estudante da Universidade Tecnológica Federal do Paraná, atualmente finalizando o curso.
 
-Meu foco principal é front-end, design e interfaces inteligentes, porém também me interesso em construção de software em nível de back-end e microsserviços.
+ Meu foco principal é front-end, design e interfaces inteligentes,
+ porém também me interesso em construção de software em nível de back-end e microsserviços.
 
 
 
