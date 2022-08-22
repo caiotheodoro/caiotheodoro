@@ -6,7 +6,7 @@
 I am a versatilist student who explores different hats on programming. My main expertise lies in front-end, design and smart interfaces, though I do dabble in building software at the backend level, exploring microservices and machine learning.
 <br/>
 <br/>
-
+ 
   <img align="right" alt="GIF"  src="./images/dfed.gif" width="300px">
   
 ### 🧐 More About Me:
