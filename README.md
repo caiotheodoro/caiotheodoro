@@ -11,8 +11,8 @@ I am a versatilist student who explores different hats on programming. My main e
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on [/mb.labs](https://www.novo.mblabs.com.br/)
-- 🌱 &nbsp; I’m currently learning Computer Vision; 
+- 🔭 &nbsp; I’m currently working on [/mb.labs](https://www.mblabs.com.br/)
+- 🌱 &nbsp; I’m currently learning rust and unsupervised learning; 
 - 🏡 &nbsp; I am very interested in architecture and fashion.
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/19i6IiTDYHvo1SJSX-y9xvwYZAgXHxO-p/view?usp=sharing)
 
