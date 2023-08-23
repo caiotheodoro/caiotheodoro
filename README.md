@@ -29,6 +29,10 @@ I am a versatilist student who explores different hats on programming. My main e
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/docker/docker.svg" alt="docker" height='42px'/> </a>
 <br>
 
+### 📃 Badges
+<div style="display: flex; gap: 10px;">
+<a href="https://www.credly.com/badges/dfb80bc9-7630-436a-8513-7e71720bb3bc" target="_blank"><img src="https://images.credly.com/size/220x220/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" /></a>
+</div>
 
 ### 📊 Github Stats
 <center>
