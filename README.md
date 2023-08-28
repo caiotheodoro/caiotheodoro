@@ -32,6 +32,7 @@ I am a versatilist student who explores different hats on programming. My main e
 ### 📃 Badges
 <div style="display: flex; gap: 10px;">
 <a href="https://www.credly.com/badges/dfb80bc9-7630-436a-8513-7e71720bb3bc" target="_blank"><img src="https://images.credly.com/size/220x220/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" /></a>
+ <a href="https://www.credly.com/badges/90b08c08-aea7-4d8a-9585-5d2d3a212812" target="_blank"><img src="https://images.credly.com/size/220x220/images/fa418e1b-119d-4e79-b663-e6c20dfff214/Full_Stack_Cloud_Development_Capstone_Project.png" /></a>
 </div>
 
 ### 📊 Github Stats
