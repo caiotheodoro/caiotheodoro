@@ -4,13 +4,12 @@
 
 <br/>
 <br/>
-[https://www.caiotheodoro.dev/](https://www.caiotheodoro.dev/)
+<a href='https://www.caiotheodoro.dev' target="_blank">https://www.caiotheodoro.dev</a>
  
   <img align="right" alt="GIF"  src="./images/dfed.gif" width="300px">
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on [/mb.labs](https://www.mblabs.com.br/)
 - 🌱 &nbsp; I’m currently learning rust and unsupervised learning; 
 - 🏡 &nbsp; I am very interested in architecture and fashion.
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/19i6IiTDYHvo1SJSX-y9xvwYZAgXHxO-p/view?usp=sharing)
