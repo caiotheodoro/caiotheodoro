@@ -6,7 +6,6 @@
 <br/>
 <a href='https://www.caiotheodoro.dev' target="_blank">https://www.caiotheodoro.dev</a>
  
-  <img align="right" alt="GIF"  src="./images/dfed.gif" width="300px">
   
 ### 🧐 More About Me:
 
@@ -17,19 +16,8 @@
 <br>
 
 ### 🔨 Languages and Tools:
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
+[![My Skills](https://skillicons.dev/icons?i=aws,postgres,react,next,typescript,javascript,python,nodejs,docker,tensorflow,firebase,c,redis,git,dynamodb,apollo,bash,css,html,electron,flask,graphql,jest,vitest,kafka,mysql,fastapi,opencv,prisma,rabbitmq,redux,terraform,workers&perline=11)](https://skillicons.dev)
 
-<a href="https://devdocs.io/c/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c/c.svg" alt="figma" height='42px'/> </a><a href="https://www.python.org" target="_blank"><img align="left" alt="c" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
-<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/docker/docker.svg" alt="docker" height='42px'/> </a>
-<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
-<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
-<br>
-<br>
 <br>
 <br>
 
@@ -41,14 +29,14 @@
   <a href="https://www.coursera.org/account/accomplishments/professional-cert/R9VWV28S6RHK" target="_blank"><img src="https://images.credly.com/size/140x140/images/f02ef07e-9cc2-4bc4-a316-ccfaedde8559/Professional_Certificate_-_IBM_Machine_Language.png" /></a>
    <a href="https://www.coursera.org/account/accomplishments/professional-cert/7YW27R22BX2M" target="_blank"><img src="https://images.credly.com/size/140x140/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" /></a>
 </div>
+
+<br>
+<br>
+
 ### 📊 Github Stats
 <center>
-  <table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiotheodoro&hide=html&layout=compact&theme=dark" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=caiotheodoro&theme=dark&count_private=true"/></td>
-    </tr>   
-  </table>
+        <td><img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiotheodoro&hide=html&layout=compact&theme=dark" /></td>
+        <td><img width="382px" align="left" src="https://github-readme-stats.vercel.app/api?username=caiotheodoro&theme=dark&count_private=true"/></td>
 </center>  
 
 <br>
