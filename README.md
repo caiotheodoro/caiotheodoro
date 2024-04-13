@@ -1,11 +1,10 @@
 ## Hey 👋, I'm Caio!
 <a href='https://www.linkedin.com/in/caiotheodoro1/' target="_blank"><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/caiotheodoro/caiotheodoro/372fbec3b480ebeb392982c958024e30b6a9d907/assets/linkedin.svg" height='18px'/></a>
-<a href='https://caiotheodoro.vercel.app/' target="_blank"><img alt="kaggle" src="https://raw.githubusercontent.com/caiotheodoro/caiotheodoro/931b814dfe67e7ee2bdf12863fcd98fd68c8d442/assets/world-wide-web-svgrepo-com.svg" height='18px'/></a>
 
 
-I am a versatilist student who explores different hats on programming. My main expertise lies in front-end, design and smart interfaces, though I do dabble in building software at the backend level, exploring microservices and machine learning/data science.
 <br/>
 <br/>
+[https://www.caiotheodoro.dev/](https://www.caiotheodoro.dev/)
  
   <img align="right" alt="GIF"  src="./images/dfed.gif" width="300px">
   
