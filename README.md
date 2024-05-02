@@ -4,7 +4,7 @@
 
 <br/>
 <br/>
-<a href='https://www.caiotheodoro.dev' target="_blank">https://www.caiotheodoro.dev</a>
+<a href='https://www.caiotheodoro.dev' target="_blank">caiotheodoro.dev</a>
  
   
 ### 🧐 More About Me:
