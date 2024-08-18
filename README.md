@@ -11,7 +11,7 @@
 
 - 🌱 &nbsp; I’m currently learning rust and unsupervised learning; 
 - 🏡 &nbsp; I am very interested in architecture and fashion.
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/19i6IiTDYHvo1SJSX-y9xvwYZAgXHxO-p/view?usp=sharing)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1o6w2Xws5GnOwmH5Qrd7Wn8hCmvbXdAtJ/view?usp=sharing)
 
 <br>
 
