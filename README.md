@@ -24,10 +24,3 @@
 ☑️ [Taskcircle](https://taskcircle.vercel.app)
 👕[Wearfy](https://Wearfy.online)
 🎁[Seumimo](https://seumimo.com)
-
-
-<br>
-
-## 📫 Get in Touch
-- LinkedIn: [Caio Theodoro](https://www.linkedin.com/in/caiotheodoro1/)
-- Website: [caiotheodoro.dev](https://www.caiotheodoro.dev)
