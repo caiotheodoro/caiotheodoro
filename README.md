@@ -1,19 +1,10 @@
 
 <a href='https://www.linkedin.com/in/caiotheodoro1/' target="_blank"><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/caiotheodoro/caiotheodoro/refs/heads/main/assets/linkedin.svg" height='18px'/></a>
 <a href='https://www.caiotheodoro.dev' target="_blank"><img align='left' alt="website" src="https://raw.githubusercontent.com/caiotheodoro/caiotheodoro/refs/heads/main/assets/globe.svg" height='18px'/></a>
-
-<br/>
-<br/>
-
-
 <br>
-
 ## 🔨 Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=aws,postgres,react,next,typescript,javascript,python,nodejs,docker,tensorflow,firebase,c,redis,git,dynamodb,apollo,bash,css,html,electron,flask,graphql,jest,vitest,kafka,mysql,fastapi,opencv,prisma,rabbitmq,redux,terraform,workers&perline=11)](https://skillicons.dev)
-
 <br>
-<br>
-
 ## 📃 Badges
 <div style="display: flex; gap: 25px; flex-wrap: wrap;">
   <a href="https://www.credly.com/badges/dfb80bc9-7630-436a-8513-7e71720bb3bc" target="_blank"><img src="https://images.credly.com/size/100x100/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" /></a>
@@ -28,16 +19,13 @@
 
 <br>
 
-
-<br>
-
 ## 🌟 Projects/Products
 Here are some of my notable projects/products:
 
 - [Taskcircle](https://taskcircle.vercel.app)
 - [Wearfy](https://Wearfy.online)
 - [Seumimo](https://seumimo.com)
-
+- 
 <br>
 
 ## 📫 Get in Touch
