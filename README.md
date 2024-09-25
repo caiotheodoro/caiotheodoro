@@ -1,17 +1,12 @@
-## Hey 👋, I'm Caio!
-<a href='https://www.linkedin.com/in/caiotheodoro1/' target="_blank"><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/caiotheodoro/caiotheodoro/372fbec3b480ebeb392982c958024e30b6a9d907/assets/linkedin.svg" height='18px'/></a>
-
+# Hey there!
+<a href='https://www.linkedin.com/in/caiotheodoro1/' target="_blank"><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/caiotheodoro/caiotheodoro/refs/heads/main/assets/linkedin.svg" height='18px'/></a>
+<a href='https://www.caiotheodoro.dev' target="_blank"><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/caiotheodoro/caiotheodoro/refs/heads/main/assets/globe.svg" height='18px'/></a>
 
 <br/>
-<br/>
-<a href='https://www.caiotheodoro.dev' target="_blank">caiotheodoro.dev</a>
  
+  &nbsp;Learning rust and unsupervised learning;
   
-### 🧐 More About Me:
 
-- 🌱 &nbsp; I’m currently learning rust and unsupervised learning; 
-- 🏡 &nbsp; I am very interested in architecture and fashion.
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1o6w2Xws5GnOwmH5Qrd7Wn8hCmvbXdAtJ/view?usp=sharing)
 
 <br>
 
