@@ -27,13 +27,7 @@
 </div>
 
 <br>
-<br>
 
-## 📊 GitHub Stats
-<div align="center">
-  <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiotheodoro&hide=html&layout=compact&theme=dark" />
-  <img width="382px" src="https://github-readme-stats.vercel.app/api?username=caiotheodoro&theme=dark&count_private=true"/>
-</div>  
 
 <br>
 
