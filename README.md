@@ -20,12 +20,12 @@
 <br>
 
 ## 🌟 Projects/Products
-Here are some of my notable projects/products:
 
-- [Taskcircle](https://taskcircle.vercel.app)
-- [Wearfy](https://Wearfy.online)
-- [Seumimo](https://seumimo.com)
-- 
+☑️ [Taskcircle](https://taskcircle.vercel.app)
+👕[Wearfy](https://Wearfy.online)
+🎁[Seumimo](https://seumimo.com)
+
+
 <br>
 
 ## 📫 Get in Touch
