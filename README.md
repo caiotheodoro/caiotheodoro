@@ -31,7 +31,6 @@
  <a href="https://www.coursera.org/account/accomplishments/verify/KMKFS6VQVVTH" target="_blank"><img src="https://images.credly.com/size/140x140/images/7fd7ae4b-b038-4616-93cc-ca8dfebbf14d/image.png" /></a>
   <a href="https://www.coursera.org/account/accomplishments/professional-cert/N17JR7HP2Y97" target="_blank"><img src="https://images.credly.com/size/140x140/images/d9fe3b97-3f2f-4b1d-a295-16c92ae855bc/image.png" /></a>
    <a href="https://www.coursera.org/account/accomplishments/professional-cert/R9VWV28S6RHK" target="_blank"><img src="https://images.credly.com/size/130x130/images/d4f5ad79-2eea-4c8b-802d-efc2b6504879/image.png" /></a>
-    <a href="https://www.coursera.org/account/accomplishments/professional-cert/R9VWV28S6RHK" target="_blank"><img src="https://images.credly.com/size/140x140/images/9e9e7ef7-384f-4636-8743-1b89a68fb46b/image.png" /></a>
   
  
 </div>
