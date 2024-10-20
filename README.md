@@ -20,8 +20,7 @@
 <br>
 
 ## 🌟 Projects/Products
-
-☑️ [Taskcircle](https://taskcircle.vercel.app)
-👕[Wearfy](https://Wearfy.online)
-🎁[Seumimo](https://seumimo.com)
-📘[Readapt](https://readapt.vercel.app)
+  <a href="https://taskcircle.vercel.app" target="_blank"><img src="https://raw.githubusercontent.com/caiotheodoro/taskcircle/refs/heads/master/app/favicon.ico" /></a>
+ <a href="https://wearfy.online" target="_blank"><img src="./assets/shirt.ico" /></a>
+  <a href="https://seumimo.com" target="_blank"><img src="./assets/present.ico" /></a>
+   <a href="https://readapt.vercel.app" target="_blank"><img src="./assets/books.ico" /></a>
