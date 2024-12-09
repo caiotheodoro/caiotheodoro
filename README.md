@@ -26,4 +26,6 @@
   <a href="https://seumimo.com" target="_blank"><img src="./assets/present.ico" /></a>
   <a href="https://readapt.vercel.app" target="_blank"><img src="./assets/books.ico" /></a>
   <a href="https://leetgroup.vercel.app" target="_blank"><img src="./assets/favicon.ico" /></a>
+   <a href="https://securechains.vercel.app" target="_blank"><img src="./assets/lock.ico" /></a>
+  
 </div>
