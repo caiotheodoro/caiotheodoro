@@ -21,61 +21,16 @@
 
 ## 🌟 Projects/Products
 
-<div align="center" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; max-width: 1200px; margin: 0 auto;">
 
-<div align="center">
-  <h3>TaskCircle</h3>
-  <a href="https://taskcircle.vercel.app">
-    <img src="./assets/taskcircle.png" width="100%" style="border-radius: 10px; width: 100%; max-width: 300px;"  />
-  </a>
-  <p>Task management platform with social authentication</p>
-  <a href="https://taskcircle.vercel.app">🔗 Live Demo</a>
-</div>
+| TaskCircle | Wearfy | SeuMimo |
+|:---:|:---:|:---:|
+| [![TaskCircle](./assets/taskcircle.png)](https://taskcircle.vercel.app) | [![Wearfy](./assets/wearfy.png)](https://wearfy.online) | [![SeuMimo](./assets/seumimo.png)](https://seumimo.com) |
+| Task management platform with group and real time collaboration | Social platform for custom apparel | Digital souvenir platform |
+| [🔗 Live Demo](https://taskcircle.vercel.app) | [🔗 Live Demo](https://wearfy.online) | [🔗 Live Demo](https://seumimo.com) |
 
-<div align="center">
-  <h3>Wearfy</h3>
-  <a href="https://wearfy.online">
-    <img src="./assets/wearfy.png" width="100%" style="border-radius: 10px; width: 100%; max-width: 300px;" />
-  </a>
-  <p>E-commerce platform for custom apparel</p>
-  <a href="https://wearfy.online">🔗 Live Demo</a>
-</div>
-
-<div align="center">
-  <h3>SeuMimo</h3>
-  <a href="https://seumimo.com">
-    <img src="./assets/seumimo.png" width="100%" style="border-radius: 10px; width: 100%; max-width: 300px;"/>
-  </a>
-  <p>Gift registry and wishlist platform</p>
-  <a href="https://seumimo.com">🔗 Live Demo</a>
-</div>
-
-<div align="center">
-  <h3>Readapt</h3>
-  <a href="https://readapt.vercel.app">
-    <img src="./assets/readapt.png" width="100%" style="border-radius: 10px; width: 100%; max-width: 300px;" />
-  </a>
-  <p>Digital library and reading tracker</p>
-  <a href="https://readapt.vercel.app">🔗 Live Demo</a>
-</div>
-
-<div align="center">
-  <h3>LeetGroup</h3>
-  <a href="https://leetgroup.vercel.app">
-    <img src="./assets/leetgroup.png" width="100%" style="border-radius: 10px; width: 100%; max-width: 300px;" />
-  </a>
-  <p>Collaborative coding platform</p>
-  <a href="https://leetgroup.vercel.app">🔗 Live Demo</a>
-</div>
-
-<div align="center">
-  <h3>SecureChains</h3>
-  <a href="https://securechains.vercel.app">
-    <img src="./assets/securechains.png" width="100%" style="border-radius: 10px; width: 100%; max-width: 300px;" />
-  </a>
-  <p>Blockchain security system</p>
-  <a href="https://securechains.vercel.app">🔗 Live Demo</a>
-</div>
-
-</div>
+| Readapt | LeetGroup | SecureChains |
+|:---:|:---:|:---:|
+| [![Readapt](./assets/readapt.png)](https://readapt.vercel.app) | [![LeetGroup](./assets/leetgroup.png)](https://leetgroup.vercel.app) | [![SecureChains](./assets/securechains.png)](https://securechains.vercel.app) |
+| Digital library and reading tracker powered by accessibility using AI | Collaborative coding platform for leetcode | Blockchain security document sharing system |
+| [🔗 Live Demo](https://readapt.vercel.app) | [🔗 Live Demo](https://leetgroup.vercel.app) | [🔗 Live Demo](https://securechains.vercel.app) |
 
