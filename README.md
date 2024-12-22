@@ -3,7 +3,7 @@
 <a href='https://www.caiotheodoro.dev' target="_blank"><img align='left' alt="website" src="https://raw.githubusercontent.com/caiotheodoro/caiotheodoro/refs/heads/main/assets/globe.svg" height='18px'/></a>
 <br>
 ## 🔨 Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=aws,postgres,react,next,typescript,javascript,python,nodejs,docker,tensorflow,firebase,c,redis,git,dynamodb,apollo,bash,css,html,electron,flask,graphql,jest,vitest,kafka,mysql,fastapi,opencv,prisma,rabbitmq,redux,terraform,workers,go,rust,bun,godot,php,vue&perline=13)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,postgres,react,next,typescript,javascript,python,nodejs,docker,tensorflow,firebase,c,redis,git,dynamodb,apollo,bash,css,html,electron,flask,graphql,jest,vitest,kafka,mysql,fastapi,opencv,prisma,rabbitmq,redux,terraform,workers,go,rust,bun,godot,php,vue,linux,qt,php,nest,mongo,selenium&perline=15)](https://skillicons.dev)
 <br>
 ## 📃 Badges
 <div style="display: flex; gap: 25px; flex-wrap: wrap;">
