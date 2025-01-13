@@ -22,15 +22,28 @@
 ## 🌟 Projects/Products
 
 
-| TaskCircle | Wearfy | SeuMimo |
-|:---:|:---:|:---:|
-| [![TaskCircle](./assets/taskcircle.png)](https://taskcircle.vercel.app) | [![Wearfy](./assets/wearfy.png)](https://wearfy.online) | [![SeuMimo](./assets/seumimo.png)](https://seumimo.com) |
-| Task management platform with group and real time collaboration | Social platform for custom apparel | Digital souvenir platform |
-| [🔗 Live Demo](https://taskcircle.vercel.app) | [🔗 Live Demo](https://wearfy.online) | [🔗 Live Demo](https://seumimo.com) |
+| SeuMimo | Wearfy |
+|:---:|:---:|
+| [![SeuMimo](./assets/seumimo.png)](https://seumimo.com) | [![Wearfy](./assets/wearfy.png)](https://wearfy.online) |
+| Digital souvenir platform | Social platform for custom apparel |
+| [🔗 Live Demo](https://seumimo.com) | [🔗 Live Demo](https://wearfy.online) |
 
-| Readapt | LeetGroup | SecureChains |
-|:---:|:---:|:---:|
-| [![Readapt](./assets/readapt.png)](https://readapt.vercel.app) | [![LeetGroup](./assets/leetgroup.png)](https://leetgroup.vercel.app) | [![SecureChains](./assets/securechains.png)](https://securechains.vercel.app) |
-| Digital library and reading tracker powered by accessibility using AI | Collaborative coding platform for leetcode | Blockchain security document sharing system |
-| [🔗 Live Demo](https://readapt.vercel.app) | [🔗 Live Demo](https://leetgroup.vercel.app) | [🔗 Live Demo](https://securechains.vercel.app) |
+| YourTripVault | Readapt |
+|:---:|:---:|
+| [![YourTripVault](./assets/yourtripvault.png)](https://yourtripvault.online) | [![Readapt](./assets/readapt.png)](https://readapt.vercel.app) |
+| The ultimate app for showcasing your travel photos. | Digital library and reading tracker powered by accessibility using AI |
+| [🔗 Live Demo](https://yourtripvault.online) | [🔗 Live Demo](https://readapt.vercel.app) |
+
+| TaskCircle | LeetGroup |
+|:---:|:---:|
+| [![TaskCircle](./assets/taskcircle.png)](https://taskcircle.vercel.app) | [![LeetGroup](./assets/leetgroup.png)](https://leetgroup.vercel.app) |
+| Task management platform with group and real time collaboration | Collaborative coding platform for leetcode |
+| [🔗 Live Demo](https://taskcircle.vercel.app) | [🔗 Live Demo](https://leetgroup.vercel.app) |
+
+| SecureChains | Caio Theodoro |
+|:---:|:---:|
+| [![SecureChains](./assets/securechains.png)](https://securechains.vercel.app) | [![Caio Theodoro](./assets/personal-website.png)](http://caiotheodoro.dev) |
+| Blockchain security document sharing system | Personal portfolio website |
+| [🔗 Live Demo](https://securechains.vercel.app) | [🔗 Live Demo](http://caiotheodoro.dev) |
+
 
