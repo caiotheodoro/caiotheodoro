@@ -22,7 +22,6 @@
 
 ## 🌟 Projects/Products
 
-
 | SeuMimo | Wearfy |
 |:---:|:---:|
 | [![SeuMimo](./assets/seumimo.png)](https://seumimo.com) | [![Wearfy](./assets/wearfy.png)](https://wearfy.online) |
