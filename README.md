@@ -22,6 +22,7 @@
 
 ## 🌟 Projects/Products
 
+
 | SeuMimo | Wearfy |
 |:---:|:---:|
 | [![SeuMimo](./assets/seumimo.png)](https://seumimo.com) | [![Wearfy](./assets/wearfy.png)](https://wearfy.online) |
@@ -31,7 +32,7 @@
 | YourTripVault | Readapt |
 |:---:|:---:|
 | [![YourTripVault](./assets/yourtripvault.png)](https://yourtripvault.online) | [![Readapt](./assets/readapt.png)](https://readapt.vercel.app) |
-| The ultimate app for showcasing your travel photos. | Digital library and reading tracker powered by accessibility using AI |
+| The ultimate app for showcasing your travel photos | Digital library and reading tracker powered by accessibility using AI |
 | [🔗 Live Demo](https://yourtripvault.online) | [🔗 Live Demo](https://readapt.vercel.app) |
 
 | TaskCircle | LeetGroup |
@@ -40,10 +41,14 @@
 | Task management platform with group and real time collaboration | Collaborative coding platform for leetcode |
 | [🔗 Live Demo](https://taskcircle.vercel.app) | [🔗 Live Demo](https://leetgroup.vercel.app) |
 
-| SecureChains | Caio Theodoro |
+| Avenza | RealState |
 |:---:|:---:|
-| [![SecureChains](./assets/securechains.png)](https://securechains.vercel.app) | [![Caio Theodoro](./assets/personal-website.png)](http://caiotheodoro.dev) |
-| Blockchain security document sharing system | Personal portfolio website |
-| [🔗 Live Demo](https://securechains.vercel.app) | [🔗 Live Demo](http://caiotheodoro.dev) |
+| [![Avenza](./assets/avenza.png)](https://avenza.theodoro.dev) | [![RealState](./assets/realstate.png)](https://imobiliarias.theodoro.dev) |
+| Consulting company LP | Capture screen for capturing leads in realstate business |
+| [🔗 Live Demo](https://avenza.theodoro.dev) | [🔗 Live Demo](https://imobiliarias.theodoro.dev) |
 
-
+| Synkro | Caio Theodoro |
+|:---:|:---:|
+| [![Synkro](./assets/synkro.png)](https://github.com/caiotheodoro/synkro) | [![Caio Theodoro](./assets/personal-website.png)](http://caiotheodoro.dev) |
+| Enterprise-grade logistics platform that orchestrates complex supply chain workflows across distributed services | Personal portfolio website |
+| [🔗 Check](https://github.com/caiotheodoro/synkro) | [🔗 Live Demo](http://caiotheodoro.dev) | 
