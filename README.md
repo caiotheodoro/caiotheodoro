@@ -45,7 +45,7 @@
 |:---:|:---:|
 | [![Avenza](./assets/avenza.png)](https://avenza.theodoro.dev) | [![RealState](./assets/realstate.png)](https://imobiliarias.theodoro.dev) |
 | Consulting company LP | Capture screen for capturing leads in realstate business |
-| [🔗 Live Demo](https://avenza.theodoro.dev) | [🔗 Live Demo](https://imobiliarias.theodoro.dev) |
+| [🔗 Live Demo](https://avenza.theodoro.dev) | [🔗 Live Demo](https://imobiliaria.theodoro.dev/),[🔗 Specification](https://avenza.theodoro.dev/produto/imobiliarias)  |
 
 | Synkro | Caio Theodoro |
 |:---:|:---:|
