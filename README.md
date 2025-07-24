@@ -27,7 +27,7 @@
 |:---:|:---:|
 | [![SeuMimo](./assets/seumimo.png)](https://seumimo.com) | [![Wearfy](./assets/wearfy.png)](https://wearfy.online) |
 | Digital souvenir platform | Social platform for custom apparel |
-| [🔗 Live Demo](https://seumimo.com) | [🔗 Live Demo](https://wearfy.online) |
+| [🔗 Live Demo](https://seumimo.com) | [🔗 Live Demo](https://wearfy.avenza.cloud) |
 
 | YourTripVault | Readapt |
 |:---:|:---:|
