@@ -51,4 +51,4 @@
 |:---:|:---:|
 | [![Synkro](./assets/synkro.png)](https://github.com/caiotheodoro/synkro) | [![Caio Theodoro](./assets/personal-website.png)](http://caiotheodoro.dev) |
 | Enterprise-grade logistics platform that orchestrates complex supply chain workflows across distributed services | Personal portfolio website |
-| [🔗 Check](https://github.com/caiotheodoro/synkro) | [🔗 Live Demo](http://caiotheodoro.dev) | 
+| [🔗 Check](https://github.com/caiotheodoro/synkro) | [🔗 Live Demo](http://caio.theodoro.dev) | 
