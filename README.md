@@ -39,7 +39,7 @@
 |:---:|:---:|
 | [![TaskCircle](./assets/taskcircle.png)](https://taskcircle.vercel.app) | [![LeetGroup](./assets/leetgroup.png)](https://leetgroup.vercel.app) |
 | Task management platform with group and real time collaboration | Collaborative coding platform for leetcode |
-| [🔗 Live Demo](https://taskcircle.vercel.app) | [🔗 Live Demo](https://leetgroup.vercel.app) |
+| [🔗 Live Demo](https://taskcircle.vercel.app) | [🔗 Live Demo](https://leetgroup.theodoro.dev) |
 
 | Avenza | RealState |
 |:---:|:---:|
