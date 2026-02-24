@@ -33,7 +33,7 @@
 |:---:|:---:|
 | [![YourTripVault](./assets/yourtripvault.png)](https://yourtripvault.online) | [![Readapt](./assets/readapt.png)](https://readapt.vercel.app) |
 | The ultimate app for showcasing your travel photos | Digital library and reading tracker powered by accessibility using AI |
-| [🔗 Live Demo](https://yourtripvault.online) | [🔗 Live Demo](https://readapt.vercel.app) |
+| [🔗 Live Demo](https://vault.avenza.cloud) | [🔗 Live Demo](https://readapt.vercel.app) |
 
 | TaskCircle | LeetGroup |
 |:---:|:---:|
