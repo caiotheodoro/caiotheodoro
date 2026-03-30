@@ -1,4 +1,4 @@
-
+Senior AI Engineer at [Adopt.AI](https://www.adopt.ai/)
 <a href='https://www.linkedin.com/in/caiotheodoro1/' target="_blank"><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/caiotheodoro/caiotheodoro/refs/heads/main/assets/linkedin.svg" height='18px'/></a>
 <a href='https://www.caiotheodoro.dev' target="_blank"><img align='left' alt="website" src="https://raw.githubusercontent.com/caiotheodoro/caiotheodoro/refs/heads/main/assets/globe.svg" height='18px'/></a>
 <br>
