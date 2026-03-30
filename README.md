@@ -4,6 +4,7 @@
 <br>
 
 <div style="display: flex; gap: 25px; flex-wrap: wrap; font-size: 12px;">Senior AI Engineer at [Adopt.AI](https://www.adopt.ai/)</div>
+
 ## 🔨 Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=aws,postgres,react,next,typescript,javascript,python,nodejs,docker,tensorflow,firebase,c,redis,git,dynamodb,apollo,bash,css,html,electron,flask,graphql,jest,vitest,kafka,mysql,fastapi,opencv,prisma,rabbitmq,redux,terraform,workers,go,rust,bun,godot,php,vue,linux,qt,deno,cypress,d3,cloudflare,nest,mongo,selenium&perline=16)](https://skillicons.dev)
 <br>
