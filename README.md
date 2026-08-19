@@ -10,7 +10,7 @@
 <br>
 ## 📃 Badges
 <div style="display: flex; gap: 25px; flex-wrap: wrap; align-items: center;">
-  <a href="https://www.toptal.com/developers/resume/caio-theodoro#NJeGln" target="_blank"><img src="https://img.shields.io/badge/Toptal-Top%203%25%20Talent-1a75e0?style=flat-square" alt="Toptal Top 3% Talent" /></a>
+  <a href="https://www.toptal.com/developers/resume/caio-theodoro#NJeGln" target="_blank"><img src="/images/light.f91914de.png" style="width:92px;height:100px;" alt="Toptal Top 3% Talent" /></a>
   <a href="https://www.credly.com/badges/dfb80bc9-7630-436a-8513-7e71720bb3bc" target="_blank"><img src="https://images.credly.com/size/100x100/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" /></a>
   <a href="https://www.credly.com/badges/90b08c08-aea7-4d8a-9585-5d2d3a212812" target="_blank"><img src="https://images.credly.com/size/100x100/images/838edd31-eec8-47de-b329-f7d359c1d20f/blob" /></a>
   <a href="https://www.credly.com/badges/201790b1-a774-483b-8147-14553a17da23" target="_blank"><img src="https://images.credly.com/size/100x100/images/a856d3ba-1aa7-4e93-8c15-8d65cec6368d/image.png" /></a>
